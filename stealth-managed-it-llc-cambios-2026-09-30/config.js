@@ -26,16 +26,16 @@ window.GUIA_CONFIG = {
     "hours": ""
   },
   "colors": {
-    "rose": "#3e4041",
+    "rose": "#00ffff",
     "gold": "#858585",
-    "purple": "#000000",
-    "cream": "#ffffff"
+    "purple": "#ff00ff",
+    "cream": "#ffff00"
   },
   "start": {
     "img": "media/partida.jpg",
     "title_es": "",
-    "text_es": "",
-    "fork_es": ""
+    "text_es": "Starting point. Off you go.",
+    "fork_es": "But you might bump into my puppy. Be careful he can bite "
   },
   "entrancesText": null,
   "entrances": [
@@ -62,7 +62,7 @@ window.GUIA_CONFIG = {
     {
       "z": 3,
       "img": "media/paso-02.jpg",
-      "es": "Casi casi",
+      "es": "Casi casi sigue unos pesos mas",
       "end": true
     }
   ],
